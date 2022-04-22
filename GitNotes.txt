@@ -32,3 +32,7 @@ git checkout -b new
 
 Changing branches- in this case to the master branch:
 git checkout master
+
+*Remote Repository*
+How to push git to GitHub
+git push -origin master
