@@ -1,0 +1,34 @@
+Git Notes
+
+*Adding files & Making a commit*
+
+How to get to Desktop/any file: 
+cd Desktop
+
+How to make folder test_repo: 
+mkdir test_repo
+
+Getting to test_repo: 
+cd test_repo
+
+How to make a folder a Git repository: 
+git init
+
+How to add a file into the staging area to be committed: 
+git add readme.md
+
+How to see status of staging area: 
+git status
+
+How to commit and add a 50 character message: 
+git commit -m "added readme.md"
+
+How to add all files to the commit: 
+git add .
+
+*Creating new branch*
+How to create a new branch called "new":
+git checkout -b new
+
+Changing branches- in this case to the master branch:
+git checkout master
