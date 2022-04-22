@@ -35,4 +35,4 @@ git checkout master
 
 *Remote Repository*
 How to push git to GitHub
-git push -origin master
+git push -u origin master
