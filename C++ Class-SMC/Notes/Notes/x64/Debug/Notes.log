@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\leyna\Desktop\Practice\C++ Class-SMC\Notes\Notes\Source.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Notes.vcxproj -> C:\Users\leyna\Desktop\Practice\C++ Class-SMC\Notes\x64\Debug\Notes.exe
